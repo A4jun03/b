@@ -1,0 +1,6 @@
+- [x] Add persistent assessment history and feedback interactions to the dashboard
+- [x] Add check-in history and progress chart views with safe demo fallback
+- [x] Add assessment flow, feedback controls, and responsive navigation states
+- [x] Verify formatting, build diagnostics, and live dashboard interactions
+- [x] Audit and harden the V3 architecture after Phase 2, preserving working product flows
+- [x] Add replaceable AI provider boundary and document verified V3 capabilities and gaps
